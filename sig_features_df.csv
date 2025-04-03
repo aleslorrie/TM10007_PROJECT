@@ -1,0 +1,154 @@
+Feature,Test,p_value
+"PREDICT_original_vf_Frangi_edge_quartile_range_SR(1.0, 10.0)_SS2.0",Mann-Whitney U-test,8.28932046534596e-07
+"PREDICT_original_vf_Frangi_full_quartile_range_SR(1.0, 10.0)_SS2.0",Mann-Whitney U-test,8.28932046534596e-07
+"PREDICT_original_vf_Frangi_inner_range_SR(1.0, 10.0)_SS2.0",Mann-Whitney U-test,1.2969779821406579e-06
+"PREDICT_original_vf_Frangi_inner_max_SR(1.0, 10.0)_SS2.0",Mann-Whitney U-test,1.322243162510398e-06
+"PREDICT_original_vf_Frangi_inner_std_SR(1.0, 10.0)_SS2.0",Mann-Whitney U-test,1.9390589209249594e-06
+"PREDICT_original_vf_Frangi_edge_mean_SR(1.0, 10.0)_SS2.0",Mann-Whitney U-test,3.2222502261006518e-06
+"PREDICT_original_vf_Frangi_full_mean_SR(1.0, 10.0)_SS2.0",Mann-Whitney U-test,3.2222502261006518e-06
+"PREDICT_original_vf_Frangi_inner_energy_SR(1.0, 10.0)_SS2.0",Mann-Whitney U-test,1.0867531677611049e-05
+"PREDICT_original_vf_Frangi_full_max_SR(1.0, 10.0)_SS2.0",Mann-Whitney U-test,1.1662185081526901e-05
+"PREDICT_original_vf_Frangi_full_range_SR(1.0, 10.0)_SS2.0",Mann-Whitney U-test,1.1662185081526901e-05
+"PREDICT_original_vf_Frangi_edge_range_SR(1.0, 10.0)_SS2.0",Mann-Whitney U-test,1.1662185081526901e-05
+"PREDICT_original_vf_Frangi_edge_max_SR(1.0, 10.0)_SS2.0",Mann-Whitney U-test,1.1662185081526901e-05
+"PREDICT_original_vf_Frangi_inner_mean_SR(1.0, 10.0)_SS2.0",Mann-Whitney U-test,1.1662185081526901e-05
+"PREDICT_original_vf_Frangi_inner_quartile_range_SR(1.0, 10.0)_SS2.0",Mann-Whitney U-test,1.20800200687232e-05
+"PREDICT_original_vf_Frangi_full_energy_SR(1.0, 10.0)_SS2.0",Mann-Whitney U-test,2.5399701320111714e-05
+"PREDICT_original_vf_Frangi_edge_energy_SR(1.0, 10.0)_SS2.0",Mann-Whitney U-test,2.5399701320111714e-05
+PREDICT_original_hf_quartile_range,Mann-Whitney U-test,4.200636427826935e-05
+PREDICT_original_hf_std,Mann-Whitney U-test,5.646387334243542e-05
+PREDICT_original_tf_LBP_std_R3_P12,Mann-Whitney U-test,6.225157545004703e-05
+PREDICT_original_logf_quartile_range_sigma5,Mann-Whitney U-test,7.31637461841114e-05
+PREDICT_original_logf_kurtosis_sigma1,Mann-Whitney U-test,7.43493217489003e-05
+PREDICT_original_tf_LBP_quartile_range_R8_P24,Mann-Whitney U-test,7.736542219174187e-05
+"PREDICT_original_vf_Frangi_edge_std_SR(1.0, 10.0)_SS2.0",Mann-Whitney U-test,7.927576889818262e-05
+"PREDICT_original_vf_Frangi_full_std_SR(1.0, 10.0)_SS2.0",Mann-Whitney U-test,7.927576889818262e-05
+PREDICT_original_tf_Gabor_min_F0.05_A2.36,Mann-Whitney U-test,8.055474265626736e-05
+PREDICT_original_hf_range,Mann-Whitney U-test,8.450970181867968e-05
+PREDICT_original_logf_quartile_range_sigma1,Mann-Whitney U-test,0.00012538369728430507
+PREDICT_original_tf_LBP_skewness_R8_P24,t-test,0.0001679464398646361
+PREDICT_original_tf_LBP_kurtosis_R8_P24,Mann-Whitney U-test,0.00018440872097445042
+PREDICT_original_tf_LBP_mean_R8_P24,Mann-Whitney U-test,0.000198991674198793
+PREDICT_original_logf_max_sigma1,Mann-Whitney U-test,0.00028114592471274237
+PREDICT_original_logf_range_sigma1,Mann-Whitney U-test,0.00030278772165854184
+PREDICT_original_hf_energy,Mann-Whitney U-test,0.0003457238610595207
+PREDICT_original_hf_max,t-test,0.00040320992634109885
+PREDICT_original_tf_Gabor_quartile_range_F0.05_A2.36,Mann-Whitney U-test,0.0004690378203464237
+PREDICT_original_tf_Gabor_min_F0.05_A0.79,Mann-Whitney U-test,0.0005977316471901458
+PREDICT_original_logf_min_sigma1,Mann-Whitney U-test,0.0006784980190994872
+PREDICT_original_tf_Gabor_range_F0.05_A2.36,Mann-Whitney U-test,0.0007076000339164214
+PREDICT_original_tf_Gabor_energy_F0.5_A1.57,Mann-Whitney U-test,0.0007378584270943313
+PREDICT_original_tf_LBP_mean_R15_P36,Mann-Whitney U-test,0.0008020128169440421
+PREDICT_original_tf_Gabor_energy_F0.05_A1.57,Mann-Whitney U-test,0.0008713116476406797
+PREDICT_original_tf_LBP_kurtosis_R15_P36,Mann-Whitney U-test,0.0009080058500966133
+PREDICT_original_tf_Gabor_energy_F0.05_A2.36,Mann-Whitney U-test,0.000920552078618978
+PREDICT_original_tf_Gabor_std_F0.05_A2.36,Mann-Whitney U-test,0.000920552078618978
+PREDICT_original_logf_quartile_range_sigma10,Mann-Whitney U-test,0.0009461278156754564
+PREDICT_original_tf_LBP_median_R3_P12,Mann-Whitney U-test,0.0010795874651077617
+PREDICT_original_sf_area_avg_2.5D,Mann-Whitney U-test,0.0010841703257971507
+PREDICT_original_tf_Gabor_energy_F0.2_A2.36,Mann-Whitney U-test,0.0010841703257971507
+PREDICT_original_tf_Gabor_quartile_range_F0.05_A1.57,Mann-Whitney U-test,0.0010841703257971507
+PREDICT_original_tf_Gabor_energy_F0.2_A1.57,Mann-Whitney U-test,0.0011444291564091926
+PREDICT_original_tf_Gabor_min_F0.2_A2.36,Mann-Whitney U-test,0.0013088761840289835
+PREDICT_original_tf_LBP_skewness_R15_P36,t-test,0.0013214418637048093
+PREDICT_original_tf_Gabor_min_F0.05_A1.57,Mann-Whitney U-test,0.0014558473272075635
+PREDICT_original_sf_area_min_2.5D,Mann-Whitney U-test,0.0015147618290516235
+PREDICT_original_tf_Gabor_std_F0.05_A1.57,Mann-Whitney U-test,0.0017274432714872365
+PREDICT_original_tf_Gabor_energy_F0.5_A2.36,Mann-Whitney U-test,0.001992854534980582
+PREDICT_original_phasef_phasecong_entropy_WL3_N5,t-test,0.002418366616903564
+PREDICT_original_tf_Gabor_max_F0.05_A2.36,Mann-Whitney U-test,0.00277541511428356
+PREDICT_original_tf_Gabor_energy_F0.05_A0.0,Mann-Whitney U-test,0.00277541511428356
+PREDICT_original_sf_area_max_2.5D,Mann-Whitney U-test,0.0028818264773452897
+PREDICT_original_tf_Gabor_range_F0.05_A1.57,Mann-Whitney U-test,0.002918116222353111
+PREDICT_original_tf_Gabor_quartile_range_F0.05_A0.79,Mann-Whitney U-test,0.003105899481122048
+PREDICT_original_tf_Gabor_quartile_range_F0.5_A2.36,Mann-Whitney U-test,0.0031840495135283258
+PREDICT_original_tf_Gabor_energy_F0.5_A0.79,Mann-Whitney U-test,0.0033457502853181833
+PREDICT_original_tf_LBP_skewness_R3_P12,t-test,0.003431593935582445
+PREDICT_original_sf_convexity_avg_2.5D,Mann-Whitney U-test,0.0037372563572432385
+PREDICT_original_tf_Gabor_quartile_range_F0.5_A0.0,Mann-Whitney U-test,0.004070061972080025
+PREDICT_original_tf_LBP_std_R8_P24,t-test,0.004128197385042473
+PREDICT_original_tf_Gabor_min_F0.05_A0.0,Mann-Whitney U-test,0.004272099131719738
+PREDICT_original_sf_compactness_std_2.5D,Mann-Whitney U-test,0.004324009358410147
+PREDICT_original_tf_Gabor_energy_F0.05_A0.79,Mann-Whitney U-test,0.004376490820152712
+PREDICT_original_tf_Gabor_max_F0.05_A1.57,Mann-Whitney U-test,0.005113297227710073
+PREDICT_original_tf_Gabor_min_F0.5_A2.36,Mann-Whitney U-test,0.005298509610591258
+PREDICT_original_tf_Gabor_quartile_range_F0.5_A0.79,Mann-Whitney U-test,0.005361580571276134
+PREDICT_original_tf_Gabor_range_F0.05_A0.0,t-test,0.005711388702862283
+PREDICT_original_tf_Gabor_energy_F0.2_A0.79,Mann-Whitney U-test,0.006173093936611215
+PREDICT_original_tf_Gabor_range_F0.2_A2.36,Mann-Whitney U-test,0.006467225092185396
+PREDICT_original_tf_Gabor_energy_F0.5_A0.0,Mann-Whitney U-test,0.007175599883342056
+PREDICT_original_tf_Gabor_quartile_range_F0.05_A0.0,Mann-Whitney U-test,0.007426758281010825
+PREDICT_original_tf_LBP_std_R15_P36,Mann-Whitney U-test,0.007685773307589574
+PREDICT_original_sf_volume_2.5D,Mann-Whitney U-test,0.007862918510584325
+PREDICT_original_sf_convexity_std_2.5D,Mann-Whitney U-test,0.00822821925908497
+PREDICT_original_sf_area_std_2.5D,Mann-Whitney U-test,0.008416504275159373
+PREDICT_original_tf_Gabor_std_F0.2_A2.36,Mann-Whitney U-test,0.008512084199566781
+PREDICT_original_tf_LBP_quartile_range_R15_P36,Mann-Whitney U-test,0.00982075988771658
+PREDICT_original_tf_GLCMMS_correlationd3.0A2.36mean,Mann-Whitney U-test,0.010066913958734708
+PREDICT_original_tf_LBP_mean_R3_P12,t-test,0.011606309463767601
+PREDICT_original_tf_GLCMMS_correlationd3.0A1.57std,Mann-Whitney U-test,0.011999579030530843
+PREDICT_original_tf_Gabor_skewness_F0.5_A0.79,Mann-Whitney U-test,0.012396539748867197
+PREDICT_original_tf_Gabor_std_F0.05_A0.0,Mann-Whitney U-test,0.01351252084261644
+PREDICT_original_tf_Gabor_std_F0.05_A0.79,Mann-Whitney U-test,0.014254267289362802
+PREDICT_original_tf_Gabor_skewness_F0.5_A0.0,t-test,0.01434245574339391
+PREDICT_original_tf_Gabor_quartile_range_F0.2_A2.36,Mann-Whitney U-test,0.015515888830707534
+PREDICT_original_tf_Gabor_energy_F0.2_A0.0,Mann-Whitney U-test,0.015846253587125613
+PREDICT_original_tf_Gabor_std_F0.5_A1.57,Mann-Whitney U-test,0.016013743916678935
+PREDICT_original_tf_Gabor_range_F0.05_A0.79,Mann-Whitney U-test,0.01618278866208262
+PREDICT_original_tf_Gabor_max_F0.2_A2.36,Mann-Whitney U-test,0.017051747941599565
+PREDICT_original_tf_Gabor_min_F0.5_A0.79,Mann-Whitney U-test,0.017051747941599565
+"PREDICT_original_vf_Frangi_inner_skewness_SR(1.0, 10.0)_SS2.0",Mann-Whitney U-test,0.017776127454444426
+PREDICT_original_logf_peak_sigma1,Mann-Whitney U-test,0.02011347162805992
+"PREDICT_original_vf_Frangi_inner_kurtosis_SR(1.0, 10.0)_SS2.0",Mann-Whitney U-test,0.021163907421702856
+PREDICT_original_tf_LBP_entropy_R15_P36,Mann-Whitney U-test,0.02248724548892145
+PREDICT_original_logf_energy_sigma5,Mann-Whitney U-test,0.02248724548892145
+PREDICT_original_logf_std_sigma1,t-test,0.023054946580415864
+PREDICT_original_phasef_monogenic_energy_WL3_N5,Mann-Whitney U-test,0.02317548028571173
+PREDICT_original_phasef_monogenic_entropy_WL3_N5,Mann-Whitney U-test,0.02317548028571173
+PREDICT_original_tf_LBP_entropy_R3_P12,t-test,0.02433100532738096
+PREDICT_original_tf_Gabor_min_F0.5_A1.57,Mann-Whitney U-test,0.02485287261056064
+PREDICT_original_tf_Gabor_max_F0.05_A0.0,Mann-Whitney U-test,0.02510088397031835
+PREDICT_original_tf_Gabor_entropy_F0.2_A2.36,t-test,0.026292035189209816
+PREDICT_original_tf_Gabor_entropy_F0.2_A0.79,t-test,0.026629256708162703
+PREDICT_original_tf_Gabor_entropy_F0.2_A1.57,t-test,0.02667990111918182
+PREDICT_original_logf_entropy_sigma5,t-test,0.026952833507645525
+PREDICT_original_logf_entropy_sigma1,t-test,0.026991619915581577
+PREDICT_original_tf_Gabor_entropy_F0.5_A0.0,t-test,0.02700232334269194
+PREDICT_original_tf_Gabor_entropy_F0.5_A1.57,t-test,0.02703354078797964
+PREDICT_original_tf_Gabor_entropy_F0.5_A0.79,t-test,0.027044490086868874
+PREDICT_original_tf_Gabor_entropy_F0.5_A2.36,t-test,0.027117409064097726
+PREDICT_original_tf_Gabor_entropy_F0.2_A0.0,t-test,0.027122699401352677
+PREDICT_original_logf_entropy_sigma10,t-test,0.02719528840491334
+PREDICT_original_tf_Gabor_entropy_F0.05_A0.79,t-test,0.027545344035341552
+PREDICT_original_phasef_phasecong_energy_WL3_N5,Mann-Whitney U-test,0.02770113791652471
+PREDICT_original_tf_Gabor_min_F0.2_A1.57,Mann-Whitney U-test,0.02824818369373994
+PREDICT_original_tf_Gabor_min_F0.5_A0.0,Mann-Whitney U-test,0.02824818369373994
+PREDICT_original_tf_Gabor_mean_F0.2_A1.57,Mann-Whitney U-test,0.02824818369373994
+PREDICT_original_tf_Gabor_entropy_F0.05_A1.57,t-test,0.02869656479372537
+PREDICT_original_hf_entropy,t-test,0.02880357664190488
+PREDICT_original_tf_Gabor_entropy_F0.05_A0.0,t-test,0.029182644730740063
+PREDICT_original_tf_Gabor_entropy_F0.05_A2.36,t-test,0.029416440441133875
+PREDICT_original_logf_median_sigma1,Mann-Whitney U-test,0.030236770353723585
+PREDICT_original_tf_GLCMMS_correlationd3.0A0.0std,Mann-Whitney U-test,0.03053045058762712
+PREDICT_original_tf_Gabor_std_F0.5_A2.36,Mann-Whitney U-test,0.031125166912621908
+PREDICT_original_tf_Gabor_mean_F0.2_A2.36,Mann-Whitney U-test,0.031729797950251555
+PREDICT_original_tf_Gabor_peak_F0.05_A2.36,Mann-Whitney U-test,0.03203587180000119
+PREDICT_original_tf_LBP_energy_R8_P24,Mann-Whitney U-test,0.03203587180000119
+PREDICT_original_hf_mean,t-test,0.032049754818510086
+PREDICT_original_tf_LBP_entropy_R8_P24,t-test,0.03217691760844482
+PREDICT_original_logf_skewness_sigma1,t-test,0.032180351652505754
+PREDICT_original_tf_Gabor_peak_F0.2_A1.57,Mann-Whitney U-test,0.032344472823766054
+PREDICT_original_tf_Gabor_kurtosis_F0.5_A0.79,Mann-Whitney U-test,0.032344472823766054
+PREDICT_original_tf_Gabor_median_F0.05_A0.0,Mann-Whitney U-test,0.03457681658144242
+PREDICT_original_logf_std_sigma5,Mann-Whitney U-test,0.035238311998027516
+PREDICT_original_tf_GLCMMS_correlationd3.0A2.36std,Mann-Whitney U-test,0.03625079266938144
+PREDICT_original_phasef_phasesym_energy_WL3_N5,Mann-Whitney U-test,0.0372879649437303
+PREDICT_original_tf_Gabor_range_F0.5_A2.36,Mann-Whitney U-test,0.038350290332544994
+PREDICT_original_sf_rad_dist_avg_2.5D,Mann-Whitney U-test,0.03980665725184837
+PREDICT_original_tf_GLCMMS_correlationd1.0A1.57std,Mann-Whitney U-test,0.043654196708200387
+PREDICT_original_tf_Gabor_peak_position_F0.5_A0.79,Mann-Whitney U-test,0.043911647599677334
+PREDICT_original_tf_Gabor_min_F0.2_A0.79,Mann-Whitney U-test,0.04611011104846891
+PREDICT_original_hf_peak,Mann-Whitney U-test,0.049121395164062776
+PREDICT_original_tf_LBP_energy_R15_P36,Mann-Whitney U-test,0.049121395164062776
+PREDICT_original_logf_min_sigma5,Mann-Whitney U-test,0.049564762543736096
+PREDICT_original_tf_Gabor_range_F0.5_A1.57,Mann-Whitney U-test,0.049564762543736096
